@@ -24,7 +24,7 @@ class App extends Component {
                 </a>
               </li>
               <li>
-                <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/gus-th-bus">
+                <a target="_blank" rel="noopener noreferrer" href="https://soundcloud.com/llyuda">
                   <div className="hvr-bounce-in soundcloud"></div>
                 </a>
               </li>
