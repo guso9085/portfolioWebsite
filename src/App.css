@@ -49,6 +49,20 @@ a:hover {
   text-align: center;
 }
 
+.App-Disclaimer {
+  z-index: 1000;
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height:150px;
+  width:150px;
+  background-image: url(./disclaimer.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .App-Diamond {
   height:600px;
   width:600px;

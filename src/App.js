@@ -13,6 +13,7 @@ class App extends Component {
 
       <div className="App">
         <div className="App-Background">
+          <div className="App-Disclaimer"></div>
           <div className="App-Diamond"></div>
           <div className="App-BigBox"></div>
           <div className="App-Social">
@@ -33,7 +34,7 @@ class App extends Component {
                 </a>
               </li>
               <li>
-                <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/gustavsolis/">
+                <a target="_blank" rel="noopener noreferrer" href="https://guso.myportfolio.com/">
                   <div className="hvr-bounce-in photos"></div>
                 </a>
               </li>
