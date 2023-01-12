@@ -9,7 +9,7 @@
     "react-spark-scroll-gsap": "^3.0.2"
   },
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "react-scripts": "1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
